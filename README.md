@@ -1,2 +1,2 @@
-# LearningPython
-Contains excercises and instruction materials from the python learning journey
+# Learning Python
+This repository contains excercises and instructional materials from my python learning journey
