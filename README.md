@@ -1,7 +1,8 @@
 # Learning Python
 This repository contains excercises and instructional materials from completing [Kaggle's Python course](https://www.kaggle.com/learn/python).
 
-## Certificate
+## Certificates
+![Kaggle Pandas Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Pandas.png?raw=true)
 ![Kaggle Python Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Python.png?raw=true)
 
 ## Exercises completed over the course
