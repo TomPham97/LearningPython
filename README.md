@@ -1,11 +1,26 @@
-# Learning Python
-This repository contains excercises and instructional materials from completing [Kaggle's Python course](https://www.kaggle.com/learn/python).
+# II. Pandas package in Python by Kaggle
+This course introduces the Pandas package in Python through practical coding exercises.
 
-## Certificates
+[Course website](https://www.kaggle.com/learn/pandas)
+
+## II.a. Certificate
 ![Kaggle Pandas Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Pandas.png?raw=true)
+
+## II.b. Exercises completed over the course
+1. [Creating, reading and writing the Pandas documentation](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-creating-reading-and-writing.ipynb)
+2. [Indexing, selecting & assigning](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-indexing-selecting-assigning.ipynb)
+3. [Summary functions and maps](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-summary-functions-and-maps.ipynb)
+4. [Grouping and sorting](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-grouping-and-sorting.ipynb)
+5. [Data types and missing values](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-data-types-and-missing-values.ipynb)
+6. [Renaming and combining](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-renaming-and-combining.ipynb)
+
+# I. Introduction to Python
+This [Kaggle's Python course](https://www.kaggle.com/learn/python) covers the foundations of the programming language.
+
+## I.a. Certificate
 ![Kaggle Python Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Python.png?raw=true)
 
-## Exercises completed over the course
+## I.b. Exercises completed over the course
 1. [Syntax, Variables, and Numbers](https://github.com/TomPham97/LearningPython/blob/main/Kaggle_Lesson1_exercise-syntax-variables-and-numbers.ipynb)
 2. [Functions and Getting Help](https://github.com/TomPham97/LearningPython/blob/main/Kaggle_Lesson2_exercise-functions-and-getting-help.ipynb)
 3. [Booleens and Conditionals](https://github.com/TomPham97/LearningPython/blob/main/Kaggle_Lesson3_exercise-booleans-and-conditionals.ipynb)
