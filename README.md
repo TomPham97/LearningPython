@@ -4,7 +4,7 @@ This course introduces the Pandas package in Python through practical coding exe
 [Course website](https://www.kaggle.com/learn/pandas)
 
 ## II.a. Certificate
-![Kaggle Pandas Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Pandas.png?raw=true)
+[![Kaggle Pandas Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Pandas.png?raw=true)](https://www.kaggle.com/learn/certification/tompham97/pandas)
 
 ## II.b. Exercises completed over the course
 1. [Creating, reading and writing the Pandas documentation](https://github.com/TomPham97/LearningPython/blob/main/Pandas%20tutorial%20exercises/exercise-creating-reading-and-writing.ipynb)
@@ -18,7 +18,7 @@ This course introduces the Pandas package in Python through practical coding exe
 This [Kaggle's Python course](https://www.kaggle.com/learn/python) covers the foundations of the programming language.
 
 ## I.a. Certificate
-![Kaggle Python Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Python.png?raw=true)
+[![Kaggle Python Certificate](https://github.com/TomPham97/LearningPython/blob/main/Tom%20Pham%20-%20Python.png?raw=true)](https://www.kaggle.com/learn/certification/tompham97/python)
 
 ## I.b. Exercises completed over the course
 1. [Syntax, Variables, and Numbers](https://github.com/TomPham97/LearningPython/blob/main/Kaggle_Lesson1_exercise-syntax-variables-and-numbers.ipynb)
